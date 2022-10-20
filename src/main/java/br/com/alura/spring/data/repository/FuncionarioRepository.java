@@ -42,4 +42,7 @@ public interface FuncionarioRepository extends PagingAndSortingRepository<Funcio
 	List<Funcionario> findByNomeIsNotNull();
 
 	List<Funcionario> findByNomeOrderByNomeAsc(String nome);
+
+	@Query(value = "SELECT f.id, f.nome, f.salario FROM funcionarios f", nativeQuery = true)
+	List<FuncionarioProjecao> findFuncionarioSalario();
 }
