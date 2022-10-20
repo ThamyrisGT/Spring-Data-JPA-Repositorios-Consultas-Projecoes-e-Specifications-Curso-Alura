@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a858718-b3e7-4dd7-b068-34c10b9deace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/spring/data/SpringDataApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/spring/data/SpringDataApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/spring/data/repository/FuncionarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/spring/data/repository/FuncionarioRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/spring/data/service/CrudFuncionarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/spring/data/service/CrudFuncionarioService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/spring/data/service/CrudUnidadeTrabalhoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/spring/data/service/CrudUnidadeTrabalhoService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/thamyristhurler/Desktop/estudos/curso-spring-data/Spring-Data-JPA-Repositorios-Consultas-Projecoes-e-Specifications-Curso-Alura&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/thamyristhurler/Desktop/estudos/1795-curso-spring-data-aula-4.3&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
