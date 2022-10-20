@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 import br.com.alura.spring.data.orm.Funcionario;
 
 @Repository
-public interface FuncionarioRepository extends PagingAndSortingRepository<Funcionario, Integer> {
+public interface FuncionarioRepository extends PagingAndSortingRepository<Funcionario, Integer> , JpaSpecificationExecutor<Funcionario>  {
 	List<Funcionario> findByNome(String nome);
 	
 	@Query("SELECT f FROM Funcionario f WHERE f.nome = :nome "
